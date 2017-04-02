@@ -3,7 +3,7 @@ Letter Scramble is a game in which players score points by entering words. Once 
 Play it here! [add gh page link]
 
 ## Notable
-![Nick Borbe](https://github.com/nickborbe)
+(https://github.com/nickborbe)
 
 ## How to Play
 1. Select a topic from the menu. First, go to Menu | Help and take a look to the words in each topic and learn its definition.
