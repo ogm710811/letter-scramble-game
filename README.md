@@ -16,7 +16,7 @@ Play it here! [add gh page link]
 8. The player with the highest score will win.
 
 ## Screenshot
-[![Game Board](/letter-scramble-game/blob/master/images/game-board-screenshot.png?raw=true)]
+[![Game Board](https://github.com/ogm710811/letter-scramble-game/blob/master/images/game-board-screenshot.png]
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the pull request, as that will help speed up the process.
