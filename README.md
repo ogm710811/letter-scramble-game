@@ -5,7 +5,7 @@ Play it here! [add gh page link]
 ## Notable
 [add Nick account link]
 
-### How to Play
+## How to Play
 1. Select a topic from the menu. First, go to Menu | Help and take a look to the words in each topic and learn its definition.
 2. Once the topic is selected the goal of the game is set up.
 3. Press the start button and enter your name and level. The level will be related with the timer count down.
@@ -15,11 +15,11 @@ Play it here! [add gh page link]
 7. Timer will count down until reach 00:00 then the game is over.
 8. The player with the highest score will win.
 
-#### Screenshot
-[add a screenshot]
+## Screenshot
+![Alt text](/letter-scramble-game/blob/master/images/game-board-screenshot.png?raw=true "Game Board")
 
-##### Contributing
+## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master! If you can, please make sure the game fully works before sending the pull request, as that will help speed up the process.
 
-###### License
+## License
 Copyright 2017 OGM
