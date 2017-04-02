@@ -1,5 +1,4 @@
 # Letter Scramble
-Made for Module 1 Project of PT Web Develop at Ironhack.
 Letter Scramble is a game in which players score points by entering words. Once the letters of a word are displayed in the game board which is divided into a 15×7 grid of squares, the player will be able to enter his/her word and win a point. This version was created for computer players and its object is to remove all the letters from the board creating valid words and score the highest possible points. 
 Play it here! [add gh page link]
 
